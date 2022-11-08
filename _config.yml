@@ -26,7 +26,7 @@ description: >
   Little blog to record my growth
 
 # A shorter description for the sidebar.
-tagline: Change `tagline` in `_config.yml`
+tagline: Daily records of me ~
 
 # A list of keywords for your blog
 keywords: []
@@ -45,13 +45,13 @@ author:
   # twitter:             <username>
 
 # Add links to the sidebar.
-menu:
-  - title: Example
-    url: /example/
-  - title: Documentation
-    url: /docs/
-  - title: About
-    url: /about/
+# menu:
+#   - title: About
+#     url: /About/
+#   - title: Dev.log
+#     url: /docs/
+#   - title: About
+#     url: /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
